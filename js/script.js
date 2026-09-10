@@ -2,7 +2,7 @@
   "use strict";
 
   // --- Config: único número de WhatsApp utilizado en toda la página ---
-  var WHATSAPP_NUMBER = "5493644838342";
+  var WHATSAPP_NUMBER = "5493644350650";
   var WHATSAPP_MESSAGE = "Hola Nestor, quiero consultar por un crédito personal. Te envío mi recibo de sueldo para que puedas asesorarme.";
   var WHATSAPP_URL = "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + encodeURIComponent(WHATSAPP_MESSAGE);
 
